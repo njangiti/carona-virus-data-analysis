@@ -135,6 +135,6 @@ These insights are crucial for policymakers, healthcare professionals, and resea
 
 ## Contact Information
 For any inquiries or further information, please contact:
-- Name: Narendhar JAngiti
+- Name: Narendhar Jangiti
 - Email: njangti@rivier.edu
 - GitHub:https://github.com/njangiti
